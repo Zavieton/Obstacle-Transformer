@@ -11,3 +11,7 @@ An obstacle is designed by the surrounding trajectory rather than images or poin
 Experiments are conducted on ETH and UCY data sets to verify the performance of our model.
 
 ## Code is coming soon.
+
+<img src="https://github.com/Zavieton/Obstacle-Transformer/blob/main/img/1.png" width="100px">
+
+<img src="https://github.com/Zavieton/Obstacle-Transformer/blob/main/img/2.png" width="100px">
