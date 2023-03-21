@@ -6,7 +6,7 @@ Although the trajectory element with the surrounding scene features has been mer
 One is that the time series processing models will increase the inference time with the increase of the number of prediction sequences.
 Another lies in which the features can not be extracted from the scene's image and point cloud in some situations.
 Therefore, this paper proposes an Obstacle-Transformer to predict trajectory in a constant inference time. 
-An ``obstacle'' is designed by the surrounding trajectory rather than images or point clouds, making Obstacle-Transformer more applicable in a wider range of scenarios.
+An obstacle is designed by the surrounding trajectory rather than images or point clouds, making Obstacle-Transformer more applicable in a wider range of scenarios.
 Experiments are conducted on ETH and UCY data sets to verify the performance of our model.
 
 ## Code is coming soon.
