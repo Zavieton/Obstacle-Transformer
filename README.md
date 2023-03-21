@@ -1,5 +1,5 @@
 # Obstacle-Transformer
-## This repo is our paper \textit{Obstacle‐transformer:A trajectory prediction network based on surrounding trajectories} published on IET Cyber System and Robotics.
+## This repo is our paper **Obstacle‐transformer:A trajectory prediction network based on surrounding trajectories** published on IET Cyber System and Robotics.
 ## Abstract
 Recurrent Neural Network, Long Short-Term Memory, and Transformer have made great progress in predicting the trajectories of moving objects.
 Although the trajectory element with the surrounding scene features has been merged to improve performance, there still exist some problems to be solved.
