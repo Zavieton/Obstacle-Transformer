@@ -12,6 +12,6 @@ Experiments are conducted on ETH and UCY data sets to verify the performance of 
 
 ## Code is coming soon.
 
-<img src="https://github.com/Zavieton/Obstacle-Transformer/blob/main/img/1.png" width="1000px">
+<img src="https://github.com/Zavieton/Obstacle-Transformer/blob/main/img/1.png" width="500px">
 
-<img src="https://github.com/Zavieton/Obstacle-Transformer/blob/main/img/2.png" width="500px">
+<img src="https://github.com/Zavieton/Obstacle-Transformer/blob/main/img/2.png" width="300px">
